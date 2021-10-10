@@ -513,7 +513,8 @@
 }
 .footer__column {
   display: flex;
-  margin-left: 350px;
+  margin: 0px 0px 0px 350px;
+
 }
 .footer__item {
 
@@ -530,6 +531,7 @@
   line-height: 24px;
   font-weight: 700;
   color:#fff;
+  white-space: nowrap;
 }
 .item-block__list {
 
@@ -539,6 +541,7 @@
   line-height: 24px;
   font-weight: 400;
   color:#fff;
+  white-space: nowrap;
 
 }
 
